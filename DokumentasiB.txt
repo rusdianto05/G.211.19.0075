@@ -1,0 +1,12 @@
+Vim adalah text editor pilihan bagi banyak user yang menghabiskan banyak waktu di baris perintah. Tidak seperti editor lainnya, Vim memiliki beberapa mode operasi yang dapat sedikit mengintimidasi bagi pengguna baru.
+
+Vim atau pendahulunya, Vi telah terinstal sebelumnya pada macOS dan hampir semua distribusi Linux. Mengetahui dasar-dasar Vim akan sangat membantu jika Anda menghadapi situasi di mana text editor favorit Anda tidak tersedia.
+
+Dalam panduan ini, kami akan menjelaskan cara menyimpan file di Vim / Vi dan keluar dari editor.
+
+Mode Vim
+Saat Anda meluncurkan editor Vim, Anda berada dalam mode perintah. Dalam mode ini, Anda dapat menggunakan perintah vim dan menavigasi file.
+
+Untuk dapat mengetik teks, Anda harus masuk ke mode penyisipan dengan menekan tombol i. Mode ini memungkinkan Anda untuk menyisipkan dan menghapus karakter dengan cara yang sama seperti yang Anda lakukan pada editor teks biasa.
+
+Untuk kembali ke mode perintah dari mode lain, cukup tekan tombol Esc.
